@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriskeFigurer_Nedarvni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGKarakterer_Nedarvning", "RPGKarakterer_Nedarvning\RPGKarakterer_Nedarvning.csproj", "{721231C2-22BF-4A5F-8536-CBC63163E3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betalingssystem_Interface", "Betalingssystem_Interface\Betalingssystem_Interface.csproj", "{791D6DA1-BA6D-4CF4-9F49-DE7A292A1AC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{721231C2-22BF-4A5F-8536-CBC63163E3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{721231C2-22BF-4A5F-8536-CBC63163E3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{721231C2-22BF-4A5F-8536-CBC63163E3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791D6DA1-BA6D-4CF4-9F49-DE7A292A1AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791D6DA1-BA6D-4CF4-9F49-DE7A292A1AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791D6DA1-BA6D-4CF4-9F49-DE7A292A1AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791D6DA1-BA6D-4CF4-9F49-DE7A292A1AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
