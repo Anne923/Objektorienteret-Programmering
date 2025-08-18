@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport_Nedarvning", "Nedarvning\Transport_Nedarvning.csproj", "{AC0DBDBA-9767-4356-94C1-44C19B59853C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo_Nedarvning", "Zoo_Nedarvning\Zoo_Nedarvning.csproj", "{34BC09B7-E44E-44DE-9E2C-2E01DF8D6913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC0DBDBA-9767-4356-94C1-44C19B59853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC0DBDBA-9767-4356-94C1-44C19B59853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC0DBDBA-9767-4356-94C1-44C19B59853C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BC09B7-E44E-44DE-9E2C-2E01DF8D6913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BC09B7-E44E-44DE-9E2C-2E01DF8D6913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BC09B7-E44E-44DE-9E2C-2E01DF8D6913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BC09B7-E44E-44DE-9E2C-2E01DF8D6913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
