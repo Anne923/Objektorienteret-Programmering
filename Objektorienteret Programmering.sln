@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarvning", "Nedarvning\Nedarvning.csproj", "{AC0DBDBA-9767-4356-94C1-44C19B59853C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport_Nedarvning", "Nedarvning\Transport_Nedarvning.csproj", "{AC0DBDBA-9767-4356-94C1-44C19B59853C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,11 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nedarvning
+namespace Transport_Nedarvning
 {
-    internal class Vehicle
+    internal abstract class Vehicle
     {
-        public string Brand;
-        public string MaxSpeed;
+        public string Brand { get; set; }
+        public int MaxSpeed { get; set; }
+
+        public virtual void Drive()
+        {
+            Console.WriteLine($"The vehicle is moving");
+        }
     }
 }
