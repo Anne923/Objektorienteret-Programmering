@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betalingssystem_Interface",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dokumenter_Interface", "Dokumenter_Interface\Dokumenter_Interface.csproj", "{D8064FC6-2C4E-4037-B68B-52AA0F6B76A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Køretøj_Interface", "Køretøj_Interface\Køretøj_Interface.csproj", "{BDC88D7C-F212-424A-AEC2-101CCE1B8C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D8064FC6-2C4E-4037-B68B-52AA0F6B76A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8064FC6-2C4E-4037-B68B-52AA0F6B76A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8064FC6-2C4E-4037-B68B-52AA0F6B76A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC88D7C-F212-424A-AEC2-101CCE1B8C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC88D7C-F212-424A-AEC2-101CCE1B8C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC88D7C-F212-424A-AEC2-101CCE1B8C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC88D7C-F212-424A-AEC2-101CCE1B8C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
