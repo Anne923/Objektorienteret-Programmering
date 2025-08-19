@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // This program demonstrates an RPG weapon system using interfaces for weapons and upgrades.
             List<IWeapon> weapons = new List<IWeapon>
             {
                 new Sword(),
