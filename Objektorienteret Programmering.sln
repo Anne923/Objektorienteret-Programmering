@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetalingsGetaway_Dependency
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email_Dependency", "Email_Dependency\Email_Dependency.csproj", "{56793D55-BA47-44FA-AC80-059E4B4214F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository_Dependency", "DataRepository_Dependency\DataRepository_Dependency.csproj", "{C10DCAA0-CA34-46EF-8E98-3DCBA61ED7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository_Tests", "DataRepository_Tests\DataRepository_Tests.csproj", "{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{56793D55-BA47-44FA-AC80-059E4B4214F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56793D55-BA47-44FA-AC80-059E4B4214F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56793D55-BA47-44FA-AC80-059E4B4214F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10DCAA0-CA34-46EF-8E98-3DCBA61ED7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10DCAA0-CA34-46EF-8E98-3DCBA61ED7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10DCAA0-CA34-46EF-8E98-3DCBA61ED7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10DCAA0-CA34-46EF-8E98-3DCBA61ED7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
