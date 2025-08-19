@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository_Dependency",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository_Tests", "DataRepository_Tests\DataRepository_Tests.csproj", "{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spillogik_Dependency", "Spillogik_Dependency\Spillogik_Dependency.csproj", "{6C5EF959-FA00-44B8-9E00-BD23956FBCDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{569E3A0D-400D-40E5-BFD9-8E9E8C820C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5EF959-FA00-44B8-9E00-BD23956FBCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5EF959-FA00-44B8-9E00-BD23956FBCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5EF959-FA00-44B8-9E00-BD23956FBCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5EF959-FA00-44B8-9E00-BD23956FBCDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
