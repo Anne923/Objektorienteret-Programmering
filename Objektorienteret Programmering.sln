@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGVåbenssystem_Interface"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger_Dependency", "Logger_Dependency\Logger_Dependency.csproj", "{54145AAE-7687-4523-A3C0-5FD440D72BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetalingsGetaway_Dependency", "BetalingsGetaway_Dependency\BetalingsGetaway_Dependency.csproj", "{2A5768FD-27ED-4935-80A1-B40E3226D97D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{54145AAE-7687-4523-A3C0-5FD440D72BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54145AAE-7687-4523-A3C0-5FD440D72BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54145AAE-7687-4523-A3C0-5FD440D72BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5768FD-27ED-4935-80A1-B40E3226D97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5768FD-27ED-4935-80A1-B40E3226D97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5768FD-27ED-4935-80A1-B40E3226D97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5768FD-27ED-4935-80A1-B40E3226D97D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
