@@ -12,7 +12,7 @@ namespace Logger_Dependency
         public void Log(string message)
         {
             File.AppendAllText(filePath, $"[File] {message}{Environment.NewLine}");
-            Console.WriteLine($"[File] {message}"); // Optional: also log to console for visibility
+            Console.WriteLine($"[File] {message}");
         }
     }
 }

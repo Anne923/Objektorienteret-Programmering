@@ -8,7 +8,7 @@ namespace Logger_Dependency
         {
             var services = new ServiceCollection();
 
-            // Bind interface to implementation
+            
             services.AddTransient<ILogger, ConsoleLogger>();
             services.AddTransient<UserService>();
 
